@@ -1,3 +1,4 @@
+#Given the array of n positive numbers, find the missing number.
 def getMissingNo(A):
     n = len(A)
     total = (n + 1)*(n + 2)/2
